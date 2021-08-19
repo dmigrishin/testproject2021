@@ -1,0 +1,15 @@
+{
+    "name": "dmigrishin/testproject",
+    "autoload": {
+        "psr-4": {
+            "Dmigrishin\\Testproject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitrii Grishin",
+            "email": "dmigrishin@gmail.com"
+        }
+    ],
+    "require": {}
+}
